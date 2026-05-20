@@ -49,6 +49,6 @@ yarn-error.log
 build/
 dist/
 
-# Frontend build
+# Frontend
 public/
 out/
